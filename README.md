@@ -9,7 +9,8 @@
 ![UMl_ejercicio 2](https://user-images.githubusercontent.com/91721888/158664159-6f32b83c-66c5-47a0-a936-4f8a93a71948.png)
 
 ## Ejercicio 3
-<img width="241" alt="2022-03-16 (6)" src="https://user-images.githubusercontent.com/91720991/158669554-398342b5-14b5-4c45-9633-b850e16b1a67.png">
+![Primera parte UML](https://user-images.githubusercontent.com/91722847/158677906-81ef032e-6123-4789-8644-bae6ecae702f.png)
+![Segunda parte UML](https://user-images.githubusercontent.com/91722847/158677916-fc78ef5c-556b-4bef-81ef-f34f6f92872d.png)
 
 
 ## Ejercicio 4
